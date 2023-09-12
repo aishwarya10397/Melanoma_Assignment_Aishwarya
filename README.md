@@ -1,6 +1,6 @@
 # Melanoma_Assignment_Aishwarya
 Repositry to store project files for a skin cancer detection project
-Team Members: Aishwarya Avinash_Nikhil, Panchagnula and Shan Salance
+Team Members: Aishwarya Avinash, Nikhil Panchagnula and Shan Salance
 **In this assignment, you will build a multiclass classification model using a custom convolutional neural network in tensorflow.**
 
 
