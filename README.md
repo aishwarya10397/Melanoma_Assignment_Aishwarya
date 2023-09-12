@@ -22,6 +22,8 @@ We are provided a dataset consisting of 2357 images of malignant and benign onco
 7.	Seborrheic keratosis
 8.	Squamous cell carcinoma
 9.	Vascular lesion
+
+**Link to my google drive where I kept and used my zip dataset https://drive.google.com/drive/folders/13d9icXqHbgyGDKn2wtYg-XiBhdfnzf2B?usp=drive_link**
 ## Technologies used (libraries and computation)
 •	Google colab
 •	Power of T4 GPU from colab (for execution)
